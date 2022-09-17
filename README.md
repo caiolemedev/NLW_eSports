@@ -24,4 +24,4 @@ Stage 3 - To be continued: UntilTheEnd
 
 Stage 4 - Power Up: ProPlayer
 
-Stage 5 - The Next Level:
+Stage 5 - The Next Level: Aprendizado contínuo
